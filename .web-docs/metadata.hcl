@@ -3,7 +3,7 @@
 integration {
   name = "HyperOne"
   description = "The HyperOne plugin can be used with HashiCorp Packer to create custom images on HyperOne."
-  identifier = "packer/BrandonRomano/hyperone"
+  identifier = "packer/hashicorp/hyperone"
   component {
     type = "builder"
     name = "HyperOne"
